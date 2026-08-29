@@ -1,0 +1,11 @@
+{
+ "schemaVersion":1,
+ "id":"cosmeticwings",
+ "version":"${version}",
+ "name":"Cosmetic Wings",
+ "description":"3D client-side Angel and Demon cosmetic wings.",
+ "authors":["CosmeticWings"],
+ "environment":"client",
+ "entrypoints":{"client":["com.example.cosmeticwings.CosmeticWingsClient"]},
+ "depends":{"fabricloader":">=0.16.10","fabric":"*","minecraft":"1.21.4"}
+}
